@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "90e5d22f8f005019",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ce4700562785ba",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Index.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a38d2880fe2b661",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca91bbfda4d277d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ced531cee4e6564",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a63d8d3a89731d8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "right": {
+    "id": "856bdf137f16caa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f610ce5a6f00588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7610a119e1aa4bbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Index.md",
+    "02 Installing Laravel.md",
+    "01 What is Laravel.md",
+    "06 Creating a Profile Controller.md",
+    "04 Designing the UI.md",
+    "03 Setting Up the Front End with Node and NPM.md",
+    "Untitled.md"
+  ]
+}
